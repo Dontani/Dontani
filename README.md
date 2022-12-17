@@ -1,4 +1,4 @@
-[![MasterHead](https://media-exp1.licdn.com/dms/image/C5612AQErLJQyuT4h2Q/article-inline_image-shrink_1500_2232/0/1624597705774?e=1667433600&v=beta&t=jj61oRNzlJebuWaT9NBWnK_RoLbI6lhoQzNLYpoxlxc)](https://dontanifellini.netlify.app/)
+[![MasterHead](https://www.bleepstatic.com/content/hl-images/2018/07/13/GitHub-logo.png)](https://dontanifellini.netlify.app/)
 <h1 align="center">Hi 👋, I'm Dontani </h1>
 <h3 align="center">A passionate developer from Maryland</h3>
 <img align="right" alt="Coding" width="400" src="https://cutewallpaper.org/25/anime-programmer-wallpaper/anime-tyan--discord-themes-download-free-35756.png">
