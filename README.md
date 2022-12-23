@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **dontanifellini@gmail.com**
 
-- ⚡ Fun fact **I'm an avid Cat lover🐱**
+- ⚡ Fun fact **Former Pre-Dental :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
