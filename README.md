@@ -10,7 +10,7 @@
 
 - 👨‍💻 All of my projects are available at [https://dontanifellini.netlify.app/](https://dontanifellini.netlify.app/)
 
-- 💬 Ask me about **#100Devs , Staying Motivated**
+- 💬 Ask me about **#100Devs , Staying Consistent**
 
 - 📫 How to reach me **dontanifellini@gmail.com**
 
