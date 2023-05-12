@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **The MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://dontanifellini.netlify.app/](https://dontanifellini.netlify.app/)
+- 👨‍💻 All of my projects are available at [https://donfellini.netlify.app/](https://donfellini.netlify.app/)
 
 - 💬 Ask me about **#100Devs , Staying Consistent** 
 
