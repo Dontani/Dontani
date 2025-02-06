@@ -8,17 +8,17 @@
 
 - 🌱 I’m currently learning **The MERN Stack**
 
-- 👨‍💻 All of my projects are available at [https://donfellini.netlify.app/](https://donfellini.netlify.app/)
+- 👨‍💻 All of my projects are available at
 
 - 💬 Ask me about **#100Devs , Staying Consistent** 
 
-- 📫 How to reach me **dontanifellini@gmail.com**
+- 📫 How to reach me *
 
 - ⚡ Fun fact **Former Pre-Dental :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/dontanisf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dontanisf" height="30" width="40" /></a>
+<a href="https://twitter.com/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dontanisf" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/dontani-fellini-a7a97a244/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="dontani fellini" height="30" width="40" /></a>
 </p>
 
